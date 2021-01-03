@@ -10,7 +10,7 @@ const About = () => {
             <div className="row">
           <div className="col-lg-6" data-aos="fade-right">
             <div className="image">
-              <img src="assets/img/ab.jpg" className="img-fluid" alt="" />
+              <img src="assets/img/about.gif" className="img-fluid" alt="" />
             </div>
           </div>
           <div className="col-lg-6" data-aos="fade-left">
